@@ -5,3 +5,4 @@
 4-empty_file: script makes an empty file called hello
 5-execute: script gives execute permission to the owner of hello file
 6-multiple_permission: script gives execute permission to users, groups and owner of the file
+7-everybody file has script that gives user,group and others permission to execute"

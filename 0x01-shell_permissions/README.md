@@ -6,3 +6,4 @@
 5-execute: script gives execute permission to the owner of hello file
 6-multiple_permission: script gives execute permission to users, groups and owner of the file
 7-everybody file has script that gives user,group and others permission to execute"
+8-james_bond denying permission to user and groups and giving others all permission

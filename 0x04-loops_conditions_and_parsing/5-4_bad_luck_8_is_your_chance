@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#printing "Best School" 10 times using while loop
+#a program that displays "Best School" on the 4th loop it prints "bad luck" on the 8t iteratiom it prints "good luck"
 N=1
 while [[ $N -le 10 ]];
 do

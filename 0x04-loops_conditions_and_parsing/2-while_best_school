@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#printing "Best School" 10 times using while loop
+NUM1=1
+NUM2=10
+while [[ $NUM1 -le NUM2 ]];
+do
+	echo "Best School"
+	((NUM1++))
+done

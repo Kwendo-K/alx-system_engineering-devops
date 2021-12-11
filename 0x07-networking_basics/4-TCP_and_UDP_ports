@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#this script displays listening ports on a terminal
+netstat -lntu
